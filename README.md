@@ -1,1 +1,1 @@
-# operation system using `c`
+# operation system using `zig`
