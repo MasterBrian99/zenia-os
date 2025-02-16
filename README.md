@@ -1,1 +1,1 @@
-# operation system using `zig`
+# operation system in `zig` (wip)
